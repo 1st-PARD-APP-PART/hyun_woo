@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157166033778",
+    "project_id": "final-homework-hyunwoo",
+    "storage_bucket": "final-homework-hyunwoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157166033778:android:bb051749bf0bdc7d0d5beb",
+        "android_client_info": {
+          "package_name": "com.example.final_homework_hyunwoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157166033778-l2o5vk199lbsij5tjbl7njf1hevqqgsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPxnwXzewD7aVryInIBXfF0lK9LHIjMUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157166033778-l2o5vk199lbsij5tjbl7njf1hevqqgsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
